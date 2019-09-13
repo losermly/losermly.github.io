@@ -27,4 +27,4 @@ title: 关于我
 
 <p>
 
-大家有什么不会的都可以联系我的邮箱 **losermly@163.com**
+大家有什么不会的都可以联系我的邮箱 <br/> Email:losermly@163.com
