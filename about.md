@@ -23,19 +23,8 @@ title: 关于我
 <a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
 教程
 
-<p>
-
-大家有什么不会的都可以联系我的邮箱 <**losermly@163.com**> 
+<br/>
 
 <p>
 
-博客源码在 <a target="_blank" href='https://github.com/leopardpan/leopardpan.github.io/'>Github</a> 上，你的 Star 是我更新的动力，谢谢~
-
-<p>
-
-<p>
-
-<p>
-
-
-{% include comments.html %}
+大家有什么不会的都可以联系我的邮箱 **losermly@163.com**
