@@ -19,12 +19,6 @@ title: 关于我
 
 <p>
 
-<h3> 感谢 Jekyll </h3>
-<a href="/2016/10/jekyll_tutorials1/"> Jekyll 搭建个人博客 </a>
-教程
-
-<br/>
-
 <p>
 
 大家有什么不会的都可以联系我的邮箱 <br/> Email:losermly@163.com
