@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "DC-1"
 date: 2019-9-14
 description: "我的第一次渗透DC-1"
