@@ -1,9 +1,9 @@
 ---
-layout: Security
+layout: post
 title: "DC-1"
 date: 2019-9-14
 description: "我的第一次渗透DC-1"
-tag: kali
+tag: 渗透
 ---
 
 
