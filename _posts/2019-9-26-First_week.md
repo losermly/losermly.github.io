@@ -82,7 +82,7 @@ make install
 --with-http_sub_module \
 --with-http_ssl_module \
 --with-pcre=/usr/local/src/pcre-8.42/       //指定它的源码目录
---with-openssl=/usr/local/src/openssl-1.0.2t/ \
+--with-openssl=/usr/local/src/openssl-1.0.2t/ 
 --with-zlib=/usr/local/src/zlib-1.2.11/
 make
 make install
@@ -98,7 +98,6 @@ systemctl stop firewalld.service    //关闭防火墙
 systemctl disable firewalld.service     //禁止防火墙开机自启
 ```
 
-<p> 接下来在访问一遍你的虚拟机IP
++ 接下来在访问一遍你的虚拟机IP
 
-![4](/
-images/posts/first_week/4.png)
+![4](/images/posts/first_week/4.png)
