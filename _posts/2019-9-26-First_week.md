@@ -100,5 +100,4 @@ systemctl disable firewalld.service     //禁止防火墙开机自启
 
 <p> 接下来在访问一遍你的虚拟机IP
 
-![4](/
-images/posts/first_week/4.png)
+![4](/images/posts/first_week/4.png)
